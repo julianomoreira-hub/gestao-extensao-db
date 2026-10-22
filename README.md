@@ -4,8 +4,8 @@ Repositório referente à **Avaliação do Módulo 3 — Banco de Dados e Contro
 
 - **Acadêmico:** Juliano de Carvalho Moreira
 - **Disciplina:** Banco de Dados e Controle de Versão (`2026.2`)
-- **Repositório Front-End (Módulo 2):** `https://github.com/julianomoreira-ufms/gestao-extensao-web`
-- **Repositório Banco de Dados (Módulo 3):** `https://github.com/julianomoreira-ufms/gestao-extensao-db`
+- **Repositório Front-End (Módulo 2):** `https://github.com/julianomoreira-hub/gestao-extensao-web`
+- **Repositório Banco de Dados (Módulo 3):** `https://github.com/julianomoreira-hub/gestao-extensao-db`
 
 ---
 
@@ -47,7 +47,7 @@ gestao-extensao-db/
 ### Passo a Passo (SQLite3)
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/julianomoreira-ufms/gestao-extensao-db.git
+git clone https://github.com/julianomoreira-hub/gestao-extensao-db.git
 cd gestao-extensao-db
 
 # 2. Executar a criação do esquema (DDL)
@@ -66,3 +66,4 @@ sqlite3 -header -column database/gestao_extensao.db < sql/03_operacoes_dml_dql.s
 O gerenciamento de código-fonte deste projeto adota:
 1. **Estratégia Feature Branch**: desenvolvimento segmentado em branches temáticas (`feature/modelagem-ddl`, `feature/manipulacao-dml-dql`, `docs/diagrama-relatorio`) integradas à branch principal `main` via *merge* explícito (`--no-ff`) para preservar o histórico de evolução.
 2. **Conventional Commits**: mensagens padronizadas (`chore:`, `docs:`, `feat(ddl):`, `feat(dml):`, `feat(dql):`) facilitando a leitura do log e auditoria técnica.
+
