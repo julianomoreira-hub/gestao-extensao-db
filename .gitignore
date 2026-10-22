@@ -1,0 +1,16 @@
+# Arquivos temporários de banco de dados SQLite
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Arquivos de sistema operacional e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.log
+
+# Variáveis de ambiente
+.env
+.env.local
