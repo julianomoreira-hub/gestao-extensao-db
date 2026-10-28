@@ -4,8 +4,8 @@ Repositório referente à **Avaliação do Módulo 3 — Banco de Dados e Contro
 
 - **Acadêmico:** Juliano de Carvalho Moreira
 - **Disciplina:** Banco de Dados e Controle de Versão (`2026.2`)
-- **Repositório Front-End (Módulo 2):** `https://github.com/julianomoreira-hub/gestao-extensao-web`
-- **Repositório Banco de Dados (Módulo 3):** `https://github.com/julianomoreira-hub/gestao-extensao-db`
+- **Repositório Front-End :** `https://github.com/julianomoreira-hub/gestao-extensao-web`
+- **Repositório Banco de Dados :** `https://github.com/julianomoreira-hub/gestao-extensao-db`
 
 ---
 
